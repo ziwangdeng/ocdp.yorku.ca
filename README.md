@@ -13,4 +13,12 @@
 ### [GeoPandas](http://geopandas.org/install.html)
 ```bash
 conda install geopandas
+
 ```
+## usage
+```python
+import pandas as pd
+```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/
