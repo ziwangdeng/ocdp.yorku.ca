@@ -2,9 +2,7 @@
 >
 * Read, plot and export data from OCDP using Python programs. 
 * Datasets include ensemble means at provincial, region, municipal and grid resolution.
-* Variables include basic variables: 
-** temperature, maximum temperature, minimum temperature and precipitation 
-** 38 extreme indices
+* Variables include basic variables: temperature, maximum temperature, minimum temperature and precipitation; 38 extreme indices
 ---
 ## Packages installation
 ### Python 3.6+
