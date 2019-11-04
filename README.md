@@ -6,9 +6,9 @@
 ---
 
 ## Packages installation
-### Download and install Anaconda[Link](https://www.anaconda.com/distribution/)
+### [Download and install Anaconda](https://www.anaconda.com/distribution/)
 
-### Jupyter Notebook[Link](https://jupyter.readthedocs.io/en/latest/install.html)
+### [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
 
 ### GeoPandas
 ```bash
