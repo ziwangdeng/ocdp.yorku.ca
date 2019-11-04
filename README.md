@@ -5,3 +5,5 @@
 ---
 ## Packages installation
 ### Python 3.6+
+### Jupyter Notebook
+### GeoPandas
