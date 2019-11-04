@@ -10,7 +10,7 @@
 
 ### [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
 
-### GeoPandas
+### [GeoPandas](http://geopandas.org/install.html)
 ```bash
 conda install geopandas
 ```
