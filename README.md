@@ -15,7 +15,7 @@
 conda install geopandas
 
 ```
-## usage
+## Used packages
 ```python
 import pandas as pd
 import numpy as np
