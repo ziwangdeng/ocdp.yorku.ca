@@ -6,9 +6,9 @@
 ---
 
 ## Packages installation
-### [Download and install Anaconda](https://www.anaconda.com/distribution/)
+### [Install Anaconda](https://www.anaconda.com/distribution/): Anaconda include many popular python packages
 
-### [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
+### [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html): Actually installed if Anaconda is installed
 
 ### [GeoPandas](http://geopandas.org/install.html)
 ```bash
