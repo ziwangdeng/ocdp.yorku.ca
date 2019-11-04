@@ -18,6 +18,11 @@ conda install geopandas
 ## usage
 ```python
 import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import geopandas as gpd
+from shapely.geometry import Polygon
+from geopandas import GeoSeries
 ```
 
 ## License
