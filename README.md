@@ -10,7 +10,7 @@
 
 ### [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html): If Anaconda is installed, Jupyter Notebook should have been installed
 
-### [GeoPandas](http://geopandas.org/install.html)
+### [GeoPandas](http://geopandas.org/install.html): It's better use conda to install this package,it will be difficult to install with pip
 ```bash
 conda install geopandas
 
