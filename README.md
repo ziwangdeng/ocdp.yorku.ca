@@ -1,20 +1,11 @@
 # Ontario Climate Data Portal (OCDP)
+---
 >
 * Sample python programs for reading, plotting and exporting data from OCDP. 
 * Datasets include ensemble means at provincial, region, municipal and grid resolution.
 * Variables include basic variables: temperature, maximum temperature, minimum temperature and precipitation; 38 extreme indices
 ---
 
-## Packages installation
-### [Anaconda](https://www.anaconda.com/distribution/): Anaconda includes many popular python packages
-
-### [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html): If Anaconda is installed, Jupyter Notebook should have been installed
-
-### [GeoPandas](http://geopandas.org/install.html): It's better use conda to install this package,it will be difficult to install with pip
-```bash
-conda install geopandas
-
-```
 ## Used packages
 ```python
 import pandas as pd
@@ -25,5 +16,16 @@ from shapely.geometry import Polygon
 from geopandas import GeoSeries
 ```
 
+## Packages installation
+* [Anaconda](https://www.anaconda.com/distribution/): Anaconda includes many popular python packages
+
+* [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html): If Anaconda is installed, Jupyter Notebook should have been installed
+
+* [GeoPandas](http://geopandas.org/install.html): It's better use conda to install this package,it will be difficult to install with pip
+```bash
+conda install geopandas
+
+```
+---
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
