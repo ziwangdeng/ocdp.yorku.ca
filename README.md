@@ -16,8 +16,8 @@ import geopandas as gpd   #create maps
 from shapely.geometry import Polygon  #create maps
 from geopandas import GeoSeries  # create maps
 import requests          # download file from website to local machine
-import h5py              # for read matlab data in v7.3 format
-import scipy.io as sio   # for read matlab data file
+import h5py              # read matlab data in v7.3 format
+import scipy.io as sio   # read matlab data file
 ```
 
 ## Packages installation
@@ -31,7 +31,7 @@ conda install geopandas
 conda install h5py
 ```
 
-## Program list:
+## Programs list:
 ### Maps section (grids)
 * [Extract-data_map_basicVariables.ipynb](https://github.com/ziwangdeng/ocdp.yorku.ca/blob/master/ocdpData/pythonCode/Extract-data_map_basicVariables.ipynb)
 * [Extract-data_map_indices.ipynb](https://github.com/ziwangdeng/ocdp.yorku.ca/blob/master/ocdpData/pythonCode/Extract-data_map_indices.ipynb)
