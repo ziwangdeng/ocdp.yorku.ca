@@ -4,6 +4,7 @@
 * Sample python programs for reading, plotting and exporting data from OCDP. 
 * Datasets include ensemble means at provincial, region, municipal and grid resolution.
 * Variables include basic variables: temperature, maximum temperature, minimum temperature and precipitation; 38 extreme indices
+* Bias corrected daily data products from LAMPS and CORDEX
 
 
 ## Used packages
@@ -31,9 +32,12 @@ conda install h5py
 ```
 
 ## Program list:
+### Maps section (grids)
 * [Extract-data_map_basicVariables.ipynb](https://github.com/ziwangdeng/ocdp.yorku.ca/blob/master/ocdpData/pythonCode/Extract-data_map_basicVariables.ipynb)
 * [Extract-data_map_indices.ipynb](https://github.com/ziwangdeng/ocdp.yorku.ca/blob/master/ocdpData/pythonCode/Extract-data_map_indices.ipynb)
+### Time series section (province, regional and municipal)
 * [Extract-data_timeseries.ipynb](https://github.com/ziwangdeng/ocdp.yorku.ca/blob/master/ocdpData/pythonCode/Extract-data_timeseries.ipynb)
+### Data section
 * [Extract-data_data_Historical.ipynb](Extract-data_data_Historical.ipynb)
 * [Extract-data_data_Future_EnsembleMean_Province.ipynb](https://github.com/ziwangdeng/ocdp.yorku.ca/blob/master/ocdpData/pythonCode/Extract-data_data_Future_EnsembleMean_Province.ipynb)
 * [Extract-data_data_Future_EnsembleMean_Regions.ipynb](https://github.com/ziwangdeng/ocdp.yorku.ca/blob/master/ocdpData/pythonCode/Extract-data_data_Future_EnsembleMean_Regions.ipynb)
