@@ -1,4 +1,6 @@
+
 # Ontario Climate Data Portal (OCDP)
+![ocdp](https://github.com/ziwangdeng/ocdp.yorku.ca/blob/master/ocdpData/pics/ocdp.PNG)
 
 >
 * Sample python programs for reading, plotting and exporting data from OCDP. 
