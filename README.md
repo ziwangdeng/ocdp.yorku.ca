@@ -1,5 +1,3 @@
-
-
 ![ocdp](https://github.com/ziwangdeng/ocdp.yorku.ca/blob/master/ocdpData/pics/ocdp.PNG)
 
 >
