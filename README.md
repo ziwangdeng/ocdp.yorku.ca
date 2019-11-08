@@ -4,7 +4,7 @@
 * Sample python programs for reading, plotting and exporting data from OCDP. 
 * Datasets include ensemble means at provincial, region, municipal and grid resolution.
 * Variables include basic variables: temperature, maximum temperature, minimum temperature and precipitation; 38 extreme indices
-* Bias corrected daily data products from LAMPS and CORDEX
+* Bias corrected daily data products from LAMPS and CORDEX(to download data of PCIC, UofT and UofR, please go to their website)
 
 
 ## Used packages
