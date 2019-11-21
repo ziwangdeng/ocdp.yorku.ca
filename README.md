@@ -46,6 +46,6 @@ conda install h5py
 * [Extract-Data_Database_Future_Grids_Daily_singlemodel.ipynb](https://github.com/ziwangdeng/ocdp.yorku.ca/blob/master/ocdpData/pythonCode/Extract-Data_Database_Future_Grids_Daily_singlemodel.ipynb)
 
 ## [JavaScript code for the website yorku.ca/ocdp](https://github.com/ziwangdeng/ocdp.yorku.ca/tree/master/ocdpData/JavaScriptCode)
-
+Sample code in HTML5 and JaveScript used in the data portal.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
